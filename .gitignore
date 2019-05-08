@@ -2,3 +2,5 @@
 404.html
 #Ignore browserconfig.xml
 browserconfig.xml
+#Ignore txt file
+*.robots.txt
