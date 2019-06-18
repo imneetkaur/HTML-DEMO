@@ -70,6 +70,8 @@ local.properties
 *.war
 *.ear
 *.db
+*.txt
+*.xml
 ######################
 # Windows
 ######################
@@ -102,7 +104,6 @@ Desktop.ini
 *.class
 *.*~
 *~
-*.txt
 .merge_file*
 ######################
 # Gradle Wrapper
