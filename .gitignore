@@ -1,3 +1,5 @@
+.404.html/
+
 # Project Specific
 ######################
 /build/www/**
@@ -70,8 +72,6 @@ local.properties
 *.war
 *.ear
 *.db
-*.txt
-*.xml
 ######################
 # Windows
 ######################
